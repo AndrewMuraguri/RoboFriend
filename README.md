@@ -20,4 +20,4 @@ Challenges:
   -Using a json placeholder for the first time. 
   -Introduction into 'fetch', 'this', 'constructer+super' in a real project example
  
-UPDATE(22.02.2023): The page is not loading the content. I will look into this as soon as possible. There is a fork of the project from ZTM with a live website on how it looks if not yet resolved.
+UPDATE(22.02.2023): The page is not loading the content regardless after the addition of the branch 'gh-pages' after deployment. I will look into this as soon as possible. There is a fork of the project from ZTM with a live website on how it looks if not yet resolved.
